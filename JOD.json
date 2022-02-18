@@ -1,0 +1,27 @@
+{
+  "success": {
+    "total": 1
+  },
+  "contents": {
+    "jokes": [
+      {
+        "description": "Joke of the day ",
+        "language": "en",
+        "background": "",
+        "category": "jod",
+        "date": "2022-02-18",
+        "joke": {
+          "title": "Weather Underwear",
+          "lang": "en",
+          "length": "62",
+          "clean": "1",
+          "racial": "0",
+          "date": "2022-02-18",
+          "id": "HArNQvIeD2npkFKx6QdfcQeF",
+          "text": "Q: What does a cloud wear under his raincoat?\r\nA: Thunderwear!"
+        }
+      }
+    ],
+    "copyright": "2019-20 https://jokes.one"
+  }
+}
